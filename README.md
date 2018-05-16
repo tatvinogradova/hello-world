@@ -1,2 +1,2 @@
 # hello-world
-My first public repository. Student of Coursera, front-end development, University of Michigan
+This is the file I have changed. Never mind.
